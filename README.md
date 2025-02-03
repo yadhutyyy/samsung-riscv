@@ -1,11 +1,11 @@
 # Samsung RISC-V Program
 
 ## My Details
-- **Name**: SAMARTHA H M
+- **Name**: YADHU
 - **College**: Srinivas Institute of Technology
-- **Email ID**: samarth.h.m.gadikal@gmail.com
-- **GitHub Profile**: [samartha-hm](https://github.com/samartha-hm)
-- **LinkedIn Profile**: [samartha.hm](https://www.linkedin.com/in/samartha.hm)
+- **Email ID**: yadhukiranprodiscord@gmail.com 
+- **GitHub Profile**: [yadhutyyy]((https://github.com/yadhutyyy))
+- **LinkedIn Profile**: [Yadhu Kiran](www.linkedin.com/in/yadhu-kiran-0884b3194)
 
 ## Tasks
 
